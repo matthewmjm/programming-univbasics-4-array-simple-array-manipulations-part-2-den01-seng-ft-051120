@@ -11,9 +11,9 @@ def using_uniq(array)
 end
 
 def using_flatten(array) 
-  array.uniq
+  array.flatten
 end
 
 def using_delete(array, string) 
-  array.uniq
+  array.delete(string)
 end
