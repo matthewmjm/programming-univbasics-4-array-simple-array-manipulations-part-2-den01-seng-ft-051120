@@ -1,3 +1,4 @@
-def using_concast(array, array2) {
+def using_concat(array, array2) {
   array.concat(array2)
 }
+
