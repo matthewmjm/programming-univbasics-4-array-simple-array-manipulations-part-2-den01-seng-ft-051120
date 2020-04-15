@@ -13,3 +13,7 @@ end
 def using_flatten(array, string) 
   array.uniq
 end
+
+def using_flatten(array, string) 
+  array.uniq
+end
